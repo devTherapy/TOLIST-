@@ -66,6 +66,7 @@ ul{
 }
 .item-action{
     display: flex;
+    flex-direction: column;
 	background: #e74c3c;
     width: 15%;
     height: 40px;
